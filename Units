@@ -1,0 +1,20 @@
+<units>
+    <!-- Gunner -->
+    <unit>
+        <name>Gunner</name>
+        <unitType>Ranged</unitType>
+        <uniqueTo>Wurnia</uniqueTo>
+        <replaces>Machine Gun</replaces>
+        <movement>2</movement>
+        <strength>90</strength>
+        <rangedStrength>36</rangedStrength>
+        <range>2</range>
+        <cost>500</cost>
+        <requiredTech>Ballistics</requiredTech>
+        <requiredResource>Iron</requiredResource>
+        <promotions>
+            <promotion>Logistics</promotion>
+            <promotion>Accuracy I</promotion>
+        </promotions>
+    </unit>
+</units>
