@@ -26,6 +26,32 @@
         <requiredTech>Engineering</requiredTech>
     </building>
 
-    <!-- Imperial Steel Mill -->
-    <!-- Add similar structure for other buildings -->
+    <!-- Imperial Academy -->
+    <building>
+        <name>Imperial Academy</name>
+        <replaces></replaces>
+        <uniqueTo>Wurnia</uniqueTo>
+        <cost>180</cost>
+        <culture>50</culture>
+        <science>280</science>
+        <maintenance>0</maintenance>
+        <isNationalWonder>true</isNationalWonder>
+        <uniques>200% science in all cities</uniques>
+        <requiredTech>Scientific Theory</requiredTech>
+    </building>
+
+    <!-- Aluminum Industry -->
+    <building>
+        <name>Aluminum Industry</name>
+        <replaces></replaces>
+        <uniqueTo>Wurnia</uniqueTo>
+        <cost>100</cost>
+        <production>240</production>
+        <science>120</science>
+        <maintenance>2</maintenance>
+        <isNationalWonder>true</isNationalWonder>
+        <uniques>Quadruple the amount of Aluminum produced</uniques>
+        <requiredTech>Electricity</requiredTech>
+    </building>
+</buildings>
 </buildings>
