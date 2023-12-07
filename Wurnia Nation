@@ -42,6 +42,24 @@
     <!-- Cities and Spy Names -->
     <cities>Wurnia City</cities>
     <cities>Wesnia</cities>
-    <!-- Add other cities -->
+    <city>Strohon</city>
+    <city>Jomon</city>
+    <city>Kiryun</city>
+    <city>Surnia</city>
+    <city>Meinhal</city>
+    <city>Gerv</city>
+    <city>Henali</city>
+    <city>Dimitras</city>
+    <city>Gerkol</city>
+    <city>Daigo</city>
+    <city>Sedra</city>
+    <city>Auron</city>
+    <city>Hordus</city>
+    <city>New Strohon</city>
+    <city>Dirhan</city>
+    <city>Yoha</city>
+    <city>Quihe</city>
+    <city>Heiro</city>
+    <city>New Wesnia</city>
     <spyNames>Merhik</spyNames>
 </mod>
