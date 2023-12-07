@@ -1,0 +1,31 @@
+<buildings>
+    <!-- Imperial Opera -->
+    <building>
+        <name>Imperial Opera</name>
+        <replaces>Circus Maximus</replaces>
+        <uniqueTo>Wurnia</uniqueTo>
+        <cost>480</cost>
+        <happiness>22</happiness>
+        <culture>20</culture>
+        <science>50</science>
+        <maintenance>1</maintenance>
+        <isNationalWonder>true</isNationalWonder>
+        <requiredBuildingInAllCities>Colosseum</requiredBuildingInAllCities>
+        <requiredTech>Horseback Riding</requiredTech>
+    </building>
+
+    <!-- Grand Dam -->
+    <building>
+        <name>Grand Dam</name>
+        <replaces>Aqueduct</replaces>
+        <uniqueTo>Wurnia</uniqueTo>
+        <cost>80</cost>
+        <hurryCostModifier>160</hurryCostModifier>
+        <happiness>20</happiness>
+        <uniques>150% of food is carried over after a new citizen is born</uniques>
+        <requiredTech>Engineering</requiredTech>
+    </building>
+
+    <!-- Imperial Steel Mill -->
+    <!-- Add similar structure for other buildings -->
+</buildings>
