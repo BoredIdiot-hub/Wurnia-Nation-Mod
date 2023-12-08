@@ -1,5 +1,6 @@
+[
 {
-  "buildings": [
+  "buildings": 
     {
       "name": "Imperial Opera",
       "replaces": "Circus Maximus",
@@ -47,5 +48,6 @@
       "uniques": "Quadruple the amount of Aluminum produced",
       "requiredTech": "Electricity"
     }
-]
+
 }
+]
