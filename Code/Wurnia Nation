@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Wurnia",
+		"leaderName": "Chancellor Waleed",
+		"adjective": ["Wurnian"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+		
+		"declaringWar": "We hate to do this",
+		"attacked": "I hope we can end this sooner",
+		"defeated": "All good things must come to an end",
+		"introduction": "Greetings, let's cooperate to establish peace",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "Lets establish peace.",
+		"tradeRequest": " Let's cooperate peacefully my friend.",
+
+		"outerColor": [0,0,0],
+		"innerColor": [255,255,255],
+		"favoredReligion": "Islam", 
+		"uniquename": "Scientialism",
+		"uniques": ["[+100]% the amount of [all] strategic resources produced", "[+100]% the amount of gold per turn <upon discovering [guilds]>"], 
+		"cities": ["Wurnia City","Wesnia","Strohon","Jomon","Kiryun", "Surnia","Meinhal","Gerv","Henali","Dimitras","Gerkol","Daigo","Sedra","Auron","Hordus","New Strohon","Dirhan","Yoha","Quihe","Heiro","New Wesnia"]
+		"spyNames": ["Merhik"]
+    }
+]
