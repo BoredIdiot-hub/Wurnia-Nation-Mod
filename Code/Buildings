@@ -11,8 +11,8 @@
 		    "isNationalWonder": true,
 		    "requiredBuildingInAllCities": "Colosseum",
 		    "requiredTech": "Horseback Riding"
-     },
-	   {
+         },
+         {
 		    "name": "Local Dam",
 		    "replaces": "Aqueduct",
 		    "uniqueTo": "Wurnia",
@@ -22,48 +22,48 @@
 		    "uniques": ["150% of food is carried over after a new citizen is born"],
 		    "requiredTech": "Engineering"
     	}, 
-    {
-      "name": "Imperial Academy",
-      "replaces": "Oxford University",
-      "uniqueTo": "Wurnia",
-      "cost": 180,
-      "culture": 50,
-      "science": 280,
-      "maintenance": 0,
-      "isNationalWonder": true,
-      "uniques": ["200% science in all cities"],
-      "requiredTech": "Scientific Theory"
-    }, 
-    {
-      "name": "Aluminum Industry",
-      "uniqueTo": "Wurnia",
-      "cost": 100,
-      "production": 240,
-      "science": 120,
-      "maintenance": 2,
-      "isNationalWonder": true,
-      "uniques": ["400% the amount of Aluminum produced"], 
-      "requiredTech": "Electricity"
-    },
-    {
-     "name": "Steelworks", 
-     "replaces": "Ironworks", 
-     "uniqueTo": "Wurnia", 
-     "cost": 250,
-     "production": 600,
-     "science": 100,
-     "maintenance": 4,
-     "isNationalWonder": true,
-     "uniques": ["300% the amount of Iron and coal produced", "[3] free [Great Engineer] appears <upon discovering [Industrialization]>"], 
-     "requiredTech": "Steel"
-    }, 
-    {
-     "name": "Construction Sector", 
-     "uniqueTo": "Wurnia", 
-     "cost": 100,
-     "production": 600,
-     "maintenance": 3,
-     "uniques": ["[-60]% construction time for [All] improvements", "[4] free [Great Engineer] appears <upon discovering [Industrialization]>"], 
-     "requiredTech": "Construction"
-    }
+        {
+                    "name": "Imperial Academy",
+                    "replaces": "Oxford University",
+                    "uniqueTo": "Wurnia",
+                    "cost": 180,
+                    "culture": 50,
+                    "science": 280,
+                    "maintenance": 0,
+                    "isNationalWonder": true,
+                    "uniques": ["200% science in all cities"],
+                    "requiredTech": "Scientific Theory"
+        }, 
+        {
+                    "name": "Aluminum Industry",
+                    "uniqueTo": "Wurnia",
+                    "cost": 100,
+                    "production": 240,
+                    "science": 120,
+                    "maintenance": 2,
+                    "isNationalWonder": true,
+                    "uniques": ["400% the amount of Aluminum produced"], 
+                    "requiredTech": "Electricity"
+        },
+        {
+                    "name": "Steelworks", 
+                    "replaces": "Ironworks", 
+                    "uniqueTo": "Wurnia", 
+                    "cost": 250,
+                    "production": 600,
+                    "science": 100,
+                    "maintenance": 4,
+                    "isNationalWonder": true,
+                    "uniques": ["300% the amount of Iron and coal produced", "[3] free [Great Engineer] appears <upon discovering [Industrialization]>"], 
+                    "requiredTech": "Steel" 
+        }, 
+        {
+                    "name": "Construction Sector", 
+                    "uniqueTo": "Wurnia", 
+                    "cost": 100,
+                    "production": 600,
+                    "maintenance": 3,
+                    "uniques": ["[-60]% construction time for [All] improvements", "[4] free [Great Engineer] appears <upon discovering [Industrialization]>"], 
+                    "requiredTech": "Construction"
+        }
 ]
